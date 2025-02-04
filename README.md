@@ -1,2 +1,4 @@
 # Baez-Pitch-Selection
-This small project is an analysis of the pitches thrown to MLB hitter Javier Baez and their potential correlation with his offensive performance.
+This small project is a look at one possible reason for the decline of Javy Baez as a hitter since leaving the Chicago Cubs.
+
+Skills showcased include exploratory data analysis, interpretation, python, and basic matplotlib visuals.
